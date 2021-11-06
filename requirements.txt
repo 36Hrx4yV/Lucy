@@ -1,0 +1,8 @@
+discord
+packaging
+requests
+colorama
+inputimeout
+simplejson
+base64
+codecs
